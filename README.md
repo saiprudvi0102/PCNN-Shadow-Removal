@@ -3,7 +3,6 @@
 ## Overview
 This repository presents a novel approach to image shadow removal using Pulse Coupled Neural Networks (PCNNs). The project leverages the unique properties of PCNNs, which are inspired by the visual cortex of small mammals, to effectively detect and remove shadows while preserving image details and integrity.
 
-![Shadow Removal Example](https://github.com/YourUsername/PCNN-Shadow-Removal/raw/main/images/shadow_removal_example.png)
 
 ## Abstract
 The purpose of this work is to improve image processing methods for shadow removal by utilizing the power of Pulse Coupled Neural Networks (PCNNs). These networks are used to enhance clarity and usefulness of images across a range of applications since they are well-known for their capacity to comprehend complicated visual patterns quickly.
